@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 new NewModel("About", "This is About Page", R.drawable.image2),
                 new NewModel("Services", "We provide the best services", R.drawable.image3),
                 new NewModel("Gallery", "Here are some pictures", R.drawable.image4),
-                new NewModel("Contact", "Reach us anytime", R.drawable.image5)
+                new NewModel("Contact", "Reach us anytime", R.drawable.image6)
 
         );
 
