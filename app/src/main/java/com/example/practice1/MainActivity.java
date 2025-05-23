@@ -26,11 +26,14 @@ public class MainActivity extends AppCompatActivity {
 
     private void loadTablayout(){
         List<NewModel> tabs = Arrays.asList(
+
                 new NewModel("Home", "Welcome to Home Page", R.drawable.image1),
                 new NewModel("About", "This is About Page", R.drawable.image2),
                 new NewModel("Services", "We provide the best services", R.drawable.image3),
                 new NewModel("Gallery", "Here are some pictures", R.drawable.image4),
                 new NewModel("Contact", "Reach us anytime", R.drawable.image6)
+
+
 
         );
 
